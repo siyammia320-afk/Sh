@@ -1,0 +1,7 @@
+{
+  "name": "Traffic Switch",
+  "description": "Instant network traffic controller with floating overlay button to pause and resume download/upload speeds on demand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

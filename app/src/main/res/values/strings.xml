@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Traffic Switch</string>
+    <string name="title_app">Traffic Switch</string>
+    <string name="subtitle_app">Network Flow &amp; Traffic Controller</string>
+    <string name="btn_start">START</string>
+    <string name="btn_stop">STOP</string>
+    <string name="service_running">Floating Switch is Active</string>
+    <string name="service_stopped">Service Stopped</string>
+    <string name="permission_overlay">Floating Overlay Permission</string>
+    <string name="permission_vpn">Traffic Cutoff (VPN) Permission</string>
+    <string name="permission_notification">Notification Permission</string>
+</resources>
+
